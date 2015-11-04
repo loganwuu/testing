@@ -7,7 +7,6 @@ class GreetingTests extends DrupalWebTestCase {
   /**
    * Controls info displayed about our test in the Drupal Testing UI
    */
-   //assert
     public static function getInfo() {
         return array(
             // Name your tests.
